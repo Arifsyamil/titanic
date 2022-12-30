@@ -1,0 +1,3 @@
+username = "Arifsyamil"
+repository = "titanic"
+!git branch -M main

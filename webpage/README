@@ -1,0 +1,8 @@
+requirements.txt
+Python dependencies that are not within the Python Standard library
+Must be written in this file
+Enable the program to install any modules / packages needed before running the code
+
+pyproject.toml
+needed to declare the files in your python package and all the metadata for it that will show in PyPi. 
+A tool like flit can process the pyproject. toml file into a package that can be uploaded to PyPi or installed with pip.

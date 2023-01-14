@@ -1,8 +1,8 @@
-from PIL import Image
 import requests
 import streamlit as st
 import streamlit_lottie
 from streamlit_lottie import st_lottie
+from PIL import Image
 #https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title = "My Webpage", page_icon = ":tada:", layout = "wide")
 

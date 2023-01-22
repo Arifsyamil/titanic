@@ -21,8 +21,8 @@ local_css("webpage/style/style.css")
 #Load assets
 lottie_coding = load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_o6spyjnc.json")
 #image
-img_contact_form = Image.open("imageweb/vidupload.png")
-img_lottie_animation = Image.open("imageweb/vidpreview.png")
+img_contact_form = Image.open("webpage/imageweb/vidupload.png")
+img_lottie_animation = Image.open("webpage/imageweb/vidpreview.png")
 with st.container():
 	st.subheader("Hi, I am Arif :wave:")
 	st.title("A Data Analyst From Malaysia")
